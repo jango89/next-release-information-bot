@@ -19,7 +19,3 @@ are available handy.
 
 ### FYI
 1. Please update environment variables in `environment.sh` before using
-
-## How it looks
-
-![Image](jenkins_bot.png)
