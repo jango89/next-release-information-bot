@@ -10,7 +10,7 @@ are available handy.
 2. Displays which machines we need to deploy, based on current running instances.
 3. Displays all the latest artifacts available to release.
 4. Link to open the splunk for continous monitoring.
-5. All the information on one google chat thread.
+5. All the information on one google chat/slack thread.
 
 ### Usages
 
